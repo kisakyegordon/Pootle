@@ -1,1 +1,2 @@
-pip install --process-dependency-links Pootle
+--process-dependency-links Pootle
+gunicorn==19.7.1
